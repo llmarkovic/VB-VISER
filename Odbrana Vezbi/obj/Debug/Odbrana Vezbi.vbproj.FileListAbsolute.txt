@@ -1,0 +1,25 @@
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana Vezbi.vbprojAssemblyReference.cache
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Interop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana Vezbi.vbproj.ResolveComReference.cache
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\bin\Debug\Odbrana Vezbi.exe.config
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\bin\Debug\Odbrana Vezbi.exe
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\bin\Debug\Odbrana Vezbi.pdb
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\bin\Debug\Odbrana Vezbi.xml
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\bin\Debug\Interop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.Form1.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.FormZadatak1.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.FormZadatak2.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.FormZadatak3.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.FormZadatak4.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.FormZadatak5.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.FormZadatak6.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.Resources.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.Zadatak5FormBlue.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana_Vezbi.Zadatak5FormGreen.resources
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana Vezbi.vbproj.GenerateResource.cache
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana Vezbi.vbproj.CoreCompileInputs.cache
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana Vezbi.exe
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana Vezbi.xml
+C:\Users\luka1\OneDrive\Desktop\uop\UOP_Odbrana_2\UOP_Odbrana_2\UOP_Odbrana_Vezbi\Odbrana Vezbi\obj\Debug\Odbrana Vezbi.pdb
